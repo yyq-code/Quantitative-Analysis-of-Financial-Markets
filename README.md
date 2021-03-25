@@ -3,8 +3,7 @@
 ### Projecting Singapore’s GDP by Industry Sectors to assess the impact of Covid-19. 
 
 #### Background: 
-Singapore’s economy had been ravaged by the Covid-19 pandemic. No sector in Singapore’s economy is left unscathed. Until, the pandemic, Singapore’s economic trajectory had always been upwards, hence our group is interested in finding out how much damage Covid-19 has done and how Singapore Government has responded to support different sectors. In this project we utilized statistical models to predict the growth of Singapore’s sector GDP without the effect of Covid-19, compared against the actual GDP and estimated the impact on different sectors. We conclude by giving a recommendation based on our findings and analysis.
-
+Singapore’s economy had been ravaged by the Covid-19 pandemic. No sector in Singapore’s economy is left unscathed. Until, the pandemic, Singapore’s economic trajectory had always been upwards, hence our group is interested in finding out how much damage Covid-19 has done and how Singapore Government has responded to support different sectors. In this project we utilized statistical models to predict the growth of Singapore’s sector GDP without the effect of Covid-19, compared against the actual GDP and estimated the impact on different sectors.
 #### Methodology:
 
 a)	Data Source:
@@ -35,10 +34,7 @@ The Business Services sector also experienced a downturn in GDP growth, but the 
 
 The Finance & Insurance sector experienced growth despite the adverse impact of Covid-19. This is probably because it is less dependent on Singapore’s local market and more on the global economy. Employees in this sector could also work from home without much disruption.
 
-The Singapore Government has pledged about SGD100 billion since the start of the circuit breaker, to help individuals and businesses survive this crisis. While help from the government is welcome and commendable, we think that perhaps the government could divert more resources to help the worst hit sectors.
 
-For example, for the Jobs Support Scheme, the Government extended wage support for the Finance & Insurance sector by 10% until Dec-2020. However, from our data, it could be seen that this sector still experienced positive growth despite the pandemic, whereas all other sectors contracted.
 
-Thus, our recommendation is that the Singapore government could divert more resources (from the Finance & Insurance sector, as its doing well on its own) to be better deployed in helping other sectors.
 
 
