@@ -1,6 +1,4 @@
-# Quantitative-Analysis-of-Financial-Markets
-
-### Projecting Singapore’s GDP by Industry Sectors to assess the impact of Covid-19. 
+# Projecting Singapore’s GDP by Industry Sectors to assess the impact of Covid-19. 
 
 #### Background: 
 Singapore’s economy had been ravaged by the Covid-19 pandemic. No sector in Singapore’s economy is left unscathed. Until, the pandemic, Singapore’s economic trajectory had always been upwards, hence our group is interested in finding out how much damage Covid-19 has done and how Singapore Government has responded to support different sectors. In this project we utilized statistical models to predict the growth of Singapore’s sector GDP without the effect of Covid-19, compared against the actual GDP and estimated the impact on different sectors.
